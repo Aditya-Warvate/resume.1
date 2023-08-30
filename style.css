@@ -56,8 +56,8 @@ html,body{
     position: relative;
     top: 18%;
     left: 8%;
-    height: 75%;
-    width: 35%;
+    height: 100%;
+    width: 55%;
     scale: 1.1;
 }
 #text>h1{
